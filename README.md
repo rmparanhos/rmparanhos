@@ -1,7 +1,6 @@
 # Raffael Paranhos
 
-Engineering Manager com experiência em desenvolvimento de software e dados. Apaixonado por construir times e produtos que entregam valor real.
-
+Engineering Manager com experiência em desenvolvimento de software e dados. 
 ---
 
 **Sobre mim**

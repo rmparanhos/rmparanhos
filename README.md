@@ -12,7 +12,7 @@ Engineering Manager com experiência em desenvolvimento de software e dados. Apa
 
 **Atualmente**
 
-- Gerenciando e desenvolvendo times de engenharia
+- Gerenciando times de engenharia focados em modelagem e precificação de produtos financeiros
 - Explorando aplicações de IA/ML em produtos
 
 ---
@@ -21,7 +21,7 @@ Engineering Manager com experiência em desenvolvimento de software e dados. Apa
 
 *Ciência da Computação (Big Data & Data Visualization) — Universidade Federal Fluminense, 2024*
 
-[A Provenance-Based Approach for Land Use Analysis in Cities](https://scholar.google.com.br/citations?user=d-Co4fEAAAAJ) — Raffael Muralha Paranhos
+[A Provenance-Based Approach for Land Use Analysis in Cities](https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1158.pdf&tipo=trabalho) — Raffael Muralha Paranhos
 
 ---
 

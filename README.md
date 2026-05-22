@@ -19,9 +19,10 @@ Engineering Manager com experiência em desenvolvimento de software e dados. Apa
 
 **Publicações**
 
-- [Dados de Proveniência como Cidadãos de Primeira Classe para Análises de Workflows em Aprendizado Profundo](https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/37595) — *Anais Estendidos do SBBD*, 2024
-- [Scientific Workflow Deployment: Container Provenance in High-Performance Computing](https://www.researchgate.net/publication/385334729_Scientific_Workflow_Deployment_Container_Provenance_in_High-Performance_Computing) — *ResearchGate*, 2024
-- [Uso de Grafos de Proveniência para Análise Temporal de Uso do Solo em Centros Urbanos: uma Abordagem Prática](https://sol.sbc.org.br/index.php/sbbd/article/view/25560) — *Anais do SBBD*, 2023
+- [Parameterized Complexity Classes Defined by Threshold Circuits and Their Connection with Sorting Networks](https://link.springer.com/chapter/10.1007/978-3-030-92681-6_28) — RM Paranhos, JCN Silva, US Souza — *International Journal of Foundations of Computer Science* 35(06), 651–668, **2024**
+- [Uso de Grafos de Proveniência para Análise Temporal de Uso do Solo em Centros Urbanos: uma Abordagem Prática](https://sol.sbc.org.br/index.php/sbbd/article/view/25560) — R Paranhos, M Lage, D de Oliveira — *SBBD*, 457–462, **2023**
+- [A Specific Segmentation Approach to Measure Deforestation from Satellite Images](https://link.springer.com/chapter/10.1007/978-3-031-13588-0_61) — R Paranhos, A Conci — *International Conference on Geometry and Graphics*, 709–716, **2022**
+- [Parameterized Complexity Classes Defined by Threshold Circuits: Using Sorting Networks to Show Collapses with W-hierarchy Classes](https://link.springer.com/chapter/10.1007/978-3-030-92681-6_28) — RM Paranhos, JC Nascimento Silva, US Souza, LS Ochi — *COCOA*, 348–363, **2021**
 
 ---
 

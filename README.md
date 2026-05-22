@@ -17,6 +17,14 @@ Engineering Manager com experiência em desenvolvimento de software e dados. Apa
 
 ---
 
+**Dissertação de Mestrado**
+
+*Ciência da Computação (Big Data & Data Visualization) — Universidade Federal Fluminense, 2024*
+
+[A Provenance-Based Approach for Land Use Analysis in Cities](https://scholar.google.com.br/citations?user=d-Co4fEAAAAJ) — Raffael Muralha Paranhos
+
+---
+
 **Publicações**
 
 - [Parameterized Complexity Classes Defined by Threshold Circuits and Their Connection with Sorting Networks](https://link.springer.com/chapter/10.1007/978-3-030-92681-6_28) — RM Paranhos, JCN Silva, US Souza — *International Journal of Foundations of Computer Science* 35(06), 651–668, **2024**

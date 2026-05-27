@@ -17,11 +17,9 @@ Engineering Manager com experiência em desenvolvimento de software e dados. Apa
 
 ---
 
-**Dissertação de Mestrado**
+**Mestre em Ciência da Computação pela Universidade Federal Fluminense, 2024**
 
-*Ciência da Computação (Big Data & Data Visualization) — Universidade Federal Fluminense, 2024*
-
-[A Provenance-Based Approach for Land Use Analysis in Cities](https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1158.pdf&tipo=trabalho) — Raffael Muralha Paranhos
+[A Provenance-Based Approach for Land Use Analysis in Cities](https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1158.pdf&tipo=trabalho) 
 
 ---
 

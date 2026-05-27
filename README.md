@@ -15,11 +15,10 @@ Engineering Manager com experiência em desenvolvimento de software e dados. Apa
 - Gerenciando times de engenharia focados em modelagem e precificação de produtos financeiros
 - Explorando aplicações de IA/ML em produtos
 
----
-
 **Mestre em Ciência da Computação pela Universidade Federal Fluminense, 2024**
 
-[A Provenance-Based Approach for Land Use Analysis in Cities](https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1158.pdf&tipo=trabalho) 
+- Dissertação
+- [A Provenance-Based Approach for Land Use Analysis in Cities](https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1158.pdf&tipo=trabalho) 
 
 ---
 
